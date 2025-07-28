@@ -1,2 +1,2 @@
 # Ass-5
-Median clone
+Medium clone
